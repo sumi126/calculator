@@ -1,0 +1,21 @@
+.main-body{
+   
+    padding: 50px;
+}
+.calculator-area{
+    border: 1px solid gray;
+    border-radius: 5px;
+    
+    padding: 10px;
+    width: 250px;
+}
+.text-area{
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    margin: 20px 0 20px 0;
+}
+button {
+    margin: 5px;
+    font-size: 18px;
+}
